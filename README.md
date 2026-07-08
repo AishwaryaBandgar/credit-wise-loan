@@ -113,20 +113,6 @@ Additional features were created to improve model performance, including:
 
 ---
 
-## 📂 Project Structure
-
-```
-CreditWise-Loan/
-│
-├── credit_wise.ipynb
-├── loan_approval_data.csv
-├── README.md
-├── requirements.txt
-└── LICENSE
-```
-
----
-
 ## 🔄 Project Workflow
 
 ```
